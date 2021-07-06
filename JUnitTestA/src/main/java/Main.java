@@ -7,7 +7,7 @@ public class Main {
 	 Calculator clsCalc = new Calculator();
 	 intReturn = clsCalc.add(4,5);
 	 System.out.println(intReturn);
-	 int y;
+	 int y = 0;
 	}
 
 }
